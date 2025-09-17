@@ -1,0 +1,3 @@
+# This tells Hugging Face Spaces to serve a static website
+sdk: static
+app_file: index.html
